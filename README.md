@@ -1,16 +1,75 @@
 ## Hi there 👋
 
-<!--
-**erandikapiyumi/erandikapiyumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Piyumi Dewapaksha
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast dedicated to building innovative solutions and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Front-end developer with a strong interest in creating scalable, maintainable software. I love collaborating with teams, solving complex problems, and continuously learning new technologies. My work spans across various domains, and I'm always excited to explore new challenges.
+
+## 💡 Skills & Technologies
+
+### Languages
+- JavaScript / TypeScript
+- Python
+- Java
+- HTML & CSS
+
+### Frontend
+- React
+- Vue.js
+- Responsive Design
+- UI/UX Implementation
+
+### Backend
+- Node.js
+- RESTful APIs
+- Database Design
+- Cloud Services
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- CI/CD Pipelines
+- VS Code
+
+## 📂 Featured Projects
+
+### [Project Name](#)
+Brief description of what this project does and the technologies used.
+- **Tech Stack**: React, Node.js, MongoDB
+- **Highlights**: Key achievement or feature
+
+### [Another Project](#)
+Brief description of what this project does.
+- **Tech Stack**: Vue.js, Express, PostgreSQL
+- **Highlights**: Key achievement or feature
+
+## 📊 GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erandikapiyumi&show_icons=true&theme=default)
+
+## 🌱 Currently Learning
+
+- Advanced system design patterns
+- Learning Python
+- Recat ,Angular
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [www.linkedin.com/in/piyumi-dewapaksha-1828ba295](#)
+- **Twitter**: [@YourTwitterHandle](#)
+- **Email**:k15353.piyumi@gmail.com
+- **Portfolio**: https://piyumi.vercel.app/
+
+## 🎯 Open to
+
+- Collaborating on open-source projects
+- Freelance opportunities
+- Full-time positions
+- Mentoring junior developers
+
+---
+
+*Last Updated: 2026* | Feel free to explore my repositories and don't hesitate to reach out!
