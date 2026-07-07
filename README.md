@@ -58,7 +58,7 @@ Brief description of what this project does.
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [www.linkedin.com/in/piyumi-dewapaksha-1828ba295](#)
+- **LinkedIn**:www.linkedin.com/in/piyumi-dewapaksha-1828ba295
 - **Twitter**: [@YourTwitterHandle](#)
 - **Email**:k15353.piyumi@gmail.com
 - **Portfolio**: https://piyumi.vercel.app/
