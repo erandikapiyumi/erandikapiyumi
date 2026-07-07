@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast ded
 
 ## 🚀 About Me
 
-I'm a Front-end developer with a strong interest in creating scalable, maintainable software. I love collaborating with teams, solving complex problems, and continuously learning new technologies. My work spans across various domains, and I'm always excited to explore new challenges.
+I'm a Junior Software Engineer,Front-end developer and UI/UX Designer with a strong interest in creating scalable, maintainable software. I love collaborating with teams, solving complex problems, and continuously learning new technologies. My work spans across various domains, and I'm always excited to explore new challenges.
 
 ## 💡 Skills & Technologies
 
