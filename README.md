@@ -10,6 +10,18 @@ I'm a Junior Software Engineer,Front-end developer and UI/UX Designer with a str
 
 ## 💡 Skills & Technologies
 
+### 🛠️ My Tech Stack & Tools
+
+![Figma](https://img.shields.io/badge/Figma-[#F24E1E]?style=for-the-badge&logo=figma&logoColor=white)
+
+![UI/UX](https://img.shields.io/badge/UI/UX-Design-[ #FF69B4]?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ### Languages
 - JavaScript / TypeScript
 - Python
