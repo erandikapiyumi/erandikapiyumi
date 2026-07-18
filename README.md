@@ -71,7 +71,7 @@ Brief description of what this project does.
 - **LinkedIn**:www.linkedin.com/in/piyumi-dewapaksha-1828ba295
 - **Twitter**: [@YourTwitterHandle](#)
 - **Email**:k15353.piyumi@gmail.com
-- **Portfolio**: https://piyumi.vercel.app/
+- **Portfolio**:https://tinyurl.com/55stt7r6
 
 ## 🎯 Open to
 
